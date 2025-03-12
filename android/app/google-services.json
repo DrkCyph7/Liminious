@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "741548480853",
+    "firebase_url": "https://luminous-918db-default-rtdb.firebaseio.com",
+    "project_id": "luminous-918db",
+    "storage_bucket": "luminous-918db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741548480853:android:a9ffb558c978ce1d45b7dc",
+        "android_client_info": {
+          "package_name": "com.example.luminious"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-vAK9qVdSxVMBECpuoTNmG6xp6lwNqqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
