@@ -70,14 +70,14 @@ class _HomeScreenState extends State<HomeScreen> {
           children: [
             _buildControlButton(
               title: "Bulb",
-              isActive: _bulbState,
+              isActive: !_bulbState, // Fixing the inverted logic
               onPressed: _toggleBulb,
               icon: Icons.lightbulb,
             ),
             SizedBox(height: 20),
             _buildControlButton(
               title: "Plug",
-              isActive: _plugState,
+              isActive: !_plugState, // Fixing the inverted logic
               onPressed: _togglePlug,
               icon: Icons.power,
             ),
